@@ -1,0 +1,432 @@
+timestamp,country,cases,deaths
+2020-02-07,Others Cruise Ship,61.0,0.0
+2020-02-08,Others Cruise Ship,61.0,0.0
+2020-02-09,Others Diamond Princess cruise ship,64.0,0.0
+2020-02-10,Others Diamond Princess cruise ship,135.0,0.0
+2020-02-11,Others Diamond Princess cruise ship,135.0,0.0
+2020-02-12,Others Diamond Princess cruise ship,175.0,0.0
+2020-02-13,Others Diamond Princess cruise ship,175.0,0.0
+2020-02-14,Others Diamond Princess cruise ship,218.0,0.0
+2020-02-15,Others Diamond Princess cruise ship,285.0,0.0
+2020-02-16,Others Diamond Princess cruise ship,355.0,0.0
+2020-02-17,Others Diamond Princess cruise ship,454.0,0.0
+2020-02-18,Others Diamond Princess cruise ship,542.0,0.0
+2020-02-19,Others Diamond Princess cruise ship,621.0,0.0
+2020-02-20,Others Diamond Princess cruise ship,634.0,2.0
+2020-02-21,Others Diamond Princess cruise ship,634.0,2.0
+2020-02-22,Others Diamond Princess cruise ship,634.0,2.0
+2020-02-23,Others Diamond Princess cruise ship,691.0,3.0
+2020-02-24,Others Diamond Princess cruise ship,691.0,3.0
+2020-02-25,Others Diamond Princess cruise ship,691.0,3.0
+2020-02-26,Others Diamond Princess cruise ship,705.0,4.0
+2020-02-27,Others Diamond Princess cruise ship,705.0,4.0
+2020-02-28,North Ireland nan,1.0,0.0
+2020-02-28,Others Diamond Princess cruise ship,705.0,6.0
+2020-02-29,Others Diamond Princess cruise ship,705.0,6.0
+2020-03-01,Others Diamond Princess cruise ship,705.0,6.0
+2020-03-02,Others Diamond Princess cruise ship,705.0,6.0
+2020-03-03,Others Diamond Princess cruise ship,706.0,6.0
+2020-03-04,Others Diamond Princess cruise ship,706.0,6.0
+2020-03-05,Others Diamond Princess cruise ship,706.0,6.0
+2020-03-06,Others Diamond Princess cruise ship,696.0,6.0
+2020-03-07,Others Diamond Princess cruise ship,696.0,6.0
+2020-03-08,Others Diamond Princess cruise ship,696.0,6.0
+2020-03-09,Others Diamond Princess cruise ship,696.0,6.0
+2020-03-10,Channel Islands nan,1.0,0.0
+2020-03-10,Others Diamond Princess cruise ship,696.0,6.0
+2020-03-11,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-12,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-13,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-14,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-15,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-16,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-17,Cruise Ship Diamond Princess,696.0,7.0
+2020-03-18,Cruise Ship Diamond Princess,712.0,7.0
+2020-03-19,Cruise Ship Diamond Princess,712.0,7.0
+2020-03-20,Cruise Ship Diamond Princess,712.0,7.0
+2020-03-21,Cruise Ship Diamond Princess,712.0,8.0
+2020-03-22,Cruise Ship Diamond Princess,712.0,8.0
+2020-03-23,Cruise Ship Diamond Princess,712.0,8.0
+2020-03-25,Diamond Princess nan,712.0,10.0
+2020-03-26,Diamond Princess nan,712.0,10.0
+2020-03-27,Diamond Princess nan,712.0,10.0
+2020-03-28,Diamond Princess nan,712.0,10.0
+2020-03-28,MS Zaandam nan,2.0,0.0
+2020-03-29,Diamond Princess nan,712.0,10.0
+2020-03-29,MS Zaandam nan,2.0,0.0
+2020-03-30,Diamond Princess nan,712.0,10.0
+2020-03-30,MS Zaandam nan,2.0,0.0
+2020-03-31,Diamond Princess nan,712.0,10.0
+2020-03-31,MS Zaandam nan,2.0,0.0
+2020-04-01,Diamond Princess nan,712.0,11.0
+2020-04-01,MS Zaandam nan,9.0,2.0
+2020-04-02,Diamond Princess nan,712.0,11.0
+2020-04-02,MS Zaandam nan,9.0,2.0
+2020-04-03,Diamond Princess nan,712.0,11.0
+2020-04-03,MS Zaandam nan,9.0,2.0
+2020-04-04,Diamond Princess nan,712.0,11.0
+2020-04-04,MS Zaandam nan,9.0,2.0
+2020-04-05,Diamond Princess nan,712.0,11.0
+2020-04-05,MS Zaandam nan,9.0,2.0
+2020-04-06,Diamond Princess nan,712.0,11.0
+2020-04-06,MS Zaandam nan,9.0,2.0
+2020-04-07,Diamond Princess nan,712.0,11.0
+2020-04-07,MS Zaandam nan,9.0,2.0
+2020-04-08,Diamond Princess nan,712.0,11.0
+2020-04-08,MS Zaandam nan,9.0,2.0
+2020-04-09,Diamond Princess nan,712.0,11.0
+2020-04-09,MS Zaandam nan,9.0,2.0
+2020-04-10,Diamond Princess nan,712.0,11.0
+2020-04-10,MS Zaandam nan,9.0,2.0
+2020-04-11,Diamond Princess nan,712.0,11.0
+2020-04-11,MS Zaandam nan,9.0,2.0
+2020-04-12,Diamond Princess nan,712.0,11.0
+2020-04-12,MS Zaandam nan,9.0,2.0
+2020-04-13,Diamond Princess nan,712.0,11.0
+2020-04-13,MS Zaandam nan,9.0,2.0
+2020-04-14,Diamond Princess nan,712.0,12.0
+2020-04-14,MS Zaandam nan,9.0,2.0
+2020-04-15,Diamond Princess nan,712.0,12.0
+2020-04-15,MS Zaandam nan,9.0,2.0
+2020-04-16,Diamond Princess nan,712.0,12.0
+2020-04-16,MS Zaandam nan,9.0,2.0
+2020-04-17,Diamond Princess nan,712.0,13.0
+2020-04-17,MS Zaandam nan,9.0,2.0
+2020-04-18,Diamond Princess nan,712.0,13.0
+2020-04-18,MS Zaandam nan,9.0,2.0
+2020-04-19,Diamond Princess nan,712.0,13.0
+2020-04-19,MS Zaandam nan,9.0,2.0
+2020-04-20,Diamond Princess nan,712.0,13.0
+2020-04-20,MS Zaandam nan,9.0,2.0
+2020-04-21,Diamond Princess nan,712.0,13.0
+2020-04-21,MS Zaandam nan,9.0,2.0
+2020-04-22,Diamond Princess nan,712.0,13.0
+2020-04-22,MS Zaandam nan,9.0,2.0
+2020-04-23,Diamond Princess nan,712.0,13.0
+2020-04-23,MS Zaandam nan,9.0,2.0
+2020-04-24,Diamond Princess nan,712.0,13.0
+2020-04-24,MS Zaandam nan,9.0,2.0
+2020-04-25,Diamond Princess nan,712.0,13.0
+2020-04-25,MS Zaandam nan,9.0,2.0
+2020-04-26,Diamond Princess nan,712.0,13.0
+2020-04-26,MS Zaandam nan,9.0,2.0
+2020-04-27,Diamond Princess nan,712.0,13.0
+2020-04-27,MS Zaandam nan,9.0,2.0
+2020-04-28,Diamond Princess nan,712.0,13.0
+2020-04-28,MS Zaandam nan,9.0,2.0
+2020-04-29,Diamond Princess nan,712.0,13.0
+2020-04-29,MS Zaandam nan,9.0,2.0
+2020-04-30,Diamond Princess nan,712.0,13.0
+2020-04-30,MS Zaandam nan,9.0,2.0
+2020-05-01,Diamond Princess nan,712.0,13.0
+2020-05-01,MS Zaandam nan,9.0,2.0
+2020-05-02,Diamond Princess nan,712.0,13.0
+2020-05-02,MS Zaandam nan,9.0,2.0
+2020-05-03,Diamond Princess nan,712.0,13.0
+2020-05-03,MS Zaandam nan,9.0,2.0
+2020-05-04,Diamond Princess nan,712.0,13.0
+2020-05-04,MS Zaandam nan,9.0,2.0
+2020-05-05,Diamond Princess nan,712.0,13.0
+2020-05-05,MS Zaandam nan,9.0,2.0
+2020-05-06,Diamond Princess nan,712.0,13.0
+2020-05-06,MS Zaandam nan,9.0,2.0
+2020-05-07,Diamond Princess nan,712.0,13.0
+2020-05-07,MS Zaandam nan,9.0,2.0
+2020-05-08,Diamond Princess nan,712.0,13.0
+2020-05-08,MS Zaandam nan,9.0,2.0
+2020-05-09,Diamond Princess nan,712.0,13.0
+2020-05-09,MS Zaandam nan,9.0,2.0
+2020-05-10,Diamond Princess nan,712.0,13.0
+2020-05-10,MS Zaandam nan,9.0,2.0
+2020-05-11,Diamond Princess nan,712.0,13.0
+2020-05-11,MS Zaandam nan,9.0,2.0
+2020-05-12,Diamond Princess nan,712.0,13.0
+2020-05-12,MS Zaandam nan,9.0,2.0
+2020-05-13,Diamond Princess nan,712.0,13.0
+2020-05-13,MS Zaandam nan,9.0,2.0
+2020-05-14,Diamond Princess nan,712.0,13.0
+2020-05-14,MS Zaandam nan,9.0,2.0
+2020-05-15,Diamond Princess nan,712.0,13.0
+2020-05-15,MS Zaandam nan,9.0,2.0
+2020-05-16,Diamond Princess nan,712.0,13.0
+2020-05-16,MS Zaandam nan,9.0,2.0
+2020-05-17,Diamond Princess nan,712.0,13.0
+2020-05-17,MS Zaandam nan,9.0,2.0
+2020-05-18,Diamond Princess nan,712.0,13.0
+2020-05-18,MS Zaandam nan,9.0,2.0
+2020-05-19,Diamond Princess nan,712.0,13.0
+2020-05-19,MS Zaandam nan,9.0,2.0
+2020-05-20,Diamond Princess nan,712.0,13.0
+2020-05-20,MS Zaandam nan,9.0,2.0
+2020-05-21,Diamond Princess nan,712.0,13.0
+2020-05-21,MS Zaandam nan,9.0,2.0
+2020-05-22,Diamond Princess nan,712.0,13.0
+2020-05-22,MS Zaandam nan,9.0,2.0
+2020-05-23,Diamond Princess nan,712.0,13.0
+2020-05-23,MS Zaandam nan,9.0,2.0
+2020-05-24,Diamond Princess nan,712.0,13.0
+2020-05-24,MS Zaandam nan,9.0,2.0
+2020-05-25,Diamond Princess nan,712.0,13.0
+2020-05-25,MS Zaandam nan,9.0,2.0
+2020-05-26,Diamond Princess nan,712.0,13.0
+2020-05-26,MS Zaandam nan,9.0,2.0
+2020-05-27,Diamond Princess nan,712.0,13.0
+2020-05-27,MS Zaandam nan,9.0,2.0
+2020-05-28,Diamond Princess nan,712.0,13.0
+2020-05-28,MS Zaandam nan,9.0,2.0
+2020-05-29,Diamond Princess nan,712.0,13.0
+2020-05-29,MS Zaandam nan,9.0,2.0
+2020-05-30,Diamond Princess nan,712.0,13.0
+2020-05-30,MS Zaandam nan,9.0,2.0
+2020-05-31,Diamond Princess nan,712.0,13.0
+2020-05-31,MS Zaandam nan,9.0,2.0
+2020-06-01,Diamond Princess nan,712.0,13.0
+2020-06-01,MS Zaandam nan,9.0,2.0
+2020-06-02,Diamond Princess nan,712.0,13.0
+2020-06-02,MS Zaandam nan,9.0,2.0
+2020-06-03,Diamond Princess nan,712.0,13.0
+2020-06-03,MS Zaandam nan,9.0,2.0
+2020-06-04,Diamond Princess nan,712.0,13.0
+2020-06-04,MS Zaandam nan,9.0,2.0
+2020-06-05,Diamond Princess nan,712.0,13.0
+2020-06-05,MS Zaandam nan,9.0,2.0
+2020-06-06,Diamond Princess nan,712.0,13.0
+2020-06-06,MS Zaandam nan,9.0,2.0
+2020-06-07,Diamond Princess nan,712.0,13.0
+2020-06-07,MS Zaandam nan,9.0,2.0
+2020-06-08,Diamond Princess nan,712.0,13.0
+2020-06-08,MS Zaandam nan,9.0,2.0
+2020-06-09,Diamond Princess nan,712.0,13.0
+2020-06-09,MS Zaandam nan,9.0,2.0
+2020-06-10,Diamond Princess nan,712.0,13.0
+2020-06-10,MS Zaandam nan,9.0,2.0
+2020-06-11,Diamond Princess nan,712.0,13.0
+2020-06-11,MS Zaandam nan,9.0,2.0
+2020-06-12,Diamond Princess nan,712.0,13.0
+2020-06-12,MS Zaandam nan,9.0,2.0
+2020-06-13,Diamond Princess nan,712.0,13.0
+2020-06-13,MS Zaandam nan,9.0,2.0
+2020-06-14,Diamond Princess nan,712.0,13.0
+2020-06-14,MS Zaandam nan,9.0,2.0
+2020-06-15,Diamond Princess nan,712.0,13.0
+2020-06-15,MS Zaandam nan,9.0,2.0
+2020-06-16,Diamond Princess nan,712.0,13.0
+2020-06-16,MS Zaandam nan,9.0,2.0
+2020-06-17,Diamond Princess nan,712.0,13.0
+2020-06-17,MS Zaandam nan,9.0,2.0
+2020-06-18,Diamond Princess nan,712.0,13.0
+2020-06-18,MS Zaandam nan,9.0,2.0
+2020-06-19,Diamond Princess nan,712.0,13.0
+2020-06-19,MS Zaandam nan,9.0,2.0
+2020-06-20,Diamond Princess nan,712.0,13.0
+2020-06-20,MS Zaandam nan,9.0,2.0
+2020-06-21,Diamond Princess nan,712.0,13.0
+2020-06-21,MS Zaandam nan,9.0,2.0
+2020-06-22,Diamond Princess nan,712.0,13.0
+2020-06-22,MS Zaandam nan,9.0,2.0
+2020-06-23,Diamond Princess nan,712.0,13.0
+2020-06-23,MS Zaandam nan,9.0,2.0
+2020-06-24,Diamond Princess nan,712.0,13.0
+2020-06-24,MS Zaandam nan,9.0,2.0
+2020-06-25,Diamond Princess nan,712.0,13.0
+2020-06-25,MS Zaandam nan,9.0,2.0
+2020-06-26,Diamond Princess nan,712.0,13.0
+2020-06-26,MS Zaandam nan,9.0,2.0
+2020-06-27,Diamond Princess nan,712.0,13.0
+2020-06-27,MS Zaandam nan,9.0,2.0
+2020-06-28,Diamond Princess nan,712.0,13.0
+2020-06-28,MS Zaandam nan,9.0,2.0
+2020-06-29,Diamond Princess nan,712.0,13.0
+2020-06-29,MS Zaandam nan,9.0,2.0
+2020-06-30,Diamond Princess nan,712.0,13.0
+2020-06-30,MS Zaandam nan,9.0,2.0
+2020-07-01,Diamond Princess nan,712.0,13.0
+2020-07-01,MS Zaandam nan,9.0,2.0
+2020-07-02,Diamond Princess nan,712.0,13.0
+2020-07-02,MS Zaandam nan,9.0,2.0
+2020-07-03,Diamond Princess nan,712.0,13.0
+2020-07-03,MS Zaandam nan,9.0,2.0
+2020-07-04,Diamond Princess nan,712.0,13.0
+2020-07-04,MS Zaandam nan,9.0,2.0
+2020-07-05,Diamond Princess nan,712.0,13.0
+2020-07-05,MS Zaandam nan,9.0,2.0
+2020-07-06,Diamond Princess nan,712.0,13.0
+2020-07-06,MS Zaandam nan,9.0,2.0
+2020-07-07,Diamond Princess nan,712.0,13.0
+2020-07-07,MS Zaandam nan,9.0,2.0
+2020-07-08,Diamond Princess nan,712.0,13.0
+2020-07-08,MS Zaandam nan,9.0,2.0
+2020-07-09,Diamond Princess nan,712.0,13.0
+2020-07-09,MS Zaandam nan,9.0,2.0
+2020-07-10,Diamond Princess nan,712.0,13.0
+2020-07-10,MS Zaandam nan,9.0,2.0
+2020-07-11,Diamond Princess nan,712.0,13.0
+2020-07-11,MS Zaandam nan,9.0,2.0
+2020-07-12,Diamond Princess nan,712.0,13.0
+2020-07-12,MS Zaandam nan,9.0,2.0
+2020-07-13,Diamond Princess nan,712.0,13.0
+2020-07-13,MS Zaandam nan,9.0,2.0
+2020-07-14,Diamond Princess nan,712.0,13.0
+2020-07-14,MS Zaandam nan,9.0,2.0
+2020-07-15,Diamond Princess nan,712.0,13.0
+2020-07-15,MS Zaandam nan,9.0,2.0
+2020-07-16,Diamond Princess nan,712.0,13.0
+2020-07-16,MS Zaandam nan,9.0,2.0
+2020-07-17,Diamond Princess nan,712.0,13.0
+2020-07-17,MS Zaandam nan,9.0,2.0
+2020-07-18,Diamond Princess nan,712.0,13.0
+2020-07-18,MS Zaandam nan,9.0,2.0
+2020-07-19,Diamond Princess nan,712.0,13.0
+2020-07-19,MS Zaandam nan,9.0,2.0
+2020-07-20,Diamond Princess nan,712.0,13.0
+2020-07-20,MS Zaandam nan,9.0,2.0
+2020-07-21,Diamond Princess nan,712.0,13.0
+2020-07-21,MS Zaandam nan,9.0,2.0
+2020-07-22,Diamond Princess nan,712.0,13.0
+2020-07-22,MS Zaandam nan,9.0,2.0
+2020-07-23,Diamond Princess nan,712.0,13.0
+2020-07-23,MS Zaandam nan,9.0,2.0
+2020-07-24,Diamond Princess nan,712.0,13.0
+2020-07-24,MS Zaandam nan,9.0,2.0
+2020-07-25,Diamond Princess nan,712.0,13.0
+2020-07-25,MS Zaandam nan,9.0,2.0
+2020-07-26,Diamond Princess nan,712.0,13.0
+2020-07-26,MS Zaandam nan,9.0,2.0
+2020-07-27,Diamond Princess nan,712.0,13.0
+2020-07-27,MS Zaandam nan,9.0,2.0
+2020-07-28,Diamond Princess nan,712.0,13.0
+2020-07-28,MS Zaandam nan,9.0,2.0
+2020-07-29,Diamond Princess nan,712.0,13.0
+2020-07-29,MS Zaandam nan,9.0,2.0
+2020-07-30,Diamond Princess nan,712.0,13.0
+2020-07-30,MS Zaandam nan,9.0,2.0
+2020-07-31,Diamond Princess nan,712.0,13.0
+2020-07-31,MS Zaandam nan,9.0,2.0
+2020-08-01,Diamond Princess nan,712.0,13.0
+2020-08-01,MS Zaandam nan,9.0,2.0
+2020-08-02,Diamond Princess nan,712.0,13.0
+2020-08-02,MS Zaandam nan,9.0,2.0
+2020-08-03,Diamond Princess nan,712.0,13.0
+2020-08-03,MS Zaandam nan,9.0,2.0
+2020-08-04,Diamond Princess nan,712.0,13.0
+2020-08-04,MS Zaandam nan,9.0,2.0
+2020-08-05,Diamond Princess nan,712.0,13.0
+2020-08-05,MS Zaandam nan,9.0,2.0
+2020-08-06,Diamond Princess nan,712.0,13.0
+2020-08-06,MS Zaandam nan,9.0,2.0
+2020-08-07,Diamond Princess nan,712.0,13.0
+2020-08-07,MS Zaandam nan,9.0,2.0
+2020-08-08,Diamond Princess nan,712.0,13.0
+2020-08-08,MS Zaandam nan,9.0,2.0
+2020-08-09,Diamond Princess nan,712.0,13.0
+2020-08-09,MS Zaandam nan,9.0,2.0
+2020-08-10,Diamond Princess nan,712.0,13.0
+2020-08-10,MS Zaandam nan,9.0,2.0
+2020-08-11,Diamond Princess nan,712.0,13.0
+2020-08-11,MS Zaandam nan,9.0,2.0
+2020-08-12,Diamond Princess nan,712.0,13.0
+2020-08-12,MS Zaandam nan,9.0,2.0
+2020-08-13,Diamond Princess nan,712.0,13.0
+2020-08-13,MS Zaandam nan,9.0,2.0
+2020-08-14,Diamond Princess nan,712.0,13.0
+2020-08-14,MS Zaandam nan,9.0,2.0
+2020-08-15,Diamond Princess nan,712.0,13.0
+2020-08-15,MS Zaandam nan,9.0,2.0
+2020-08-16,Diamond Princess nan,712.0,13.0
+2020-08-16,MS Zaandam nan,9.0,2.0
+2020-08-17,Diamond Princess nan,712.0,13.0
+2020-08-17,MS Zaandam nan,9.0,2.0
+2020-08-18,Diamond Princess nan,712.0,13.0
+2020-08-18,MS Zaandam nan,9.0,2.0
+2020-08-19,Diamond Princess nan,712.0,13.0
+2020-08-19,MS Zaandam nan,9.0,2.0
+2020-08-20,Diamond Princess nan,712.0,13.0
+2020-08-20,MS Zaandam nan,9.0,2.0
+2020-08-21,Diamond Princess nan,712.0,13.0
+2020-08-21,MS Zaandam nan,9.0,2.0
+2020-08-22,Diamond Princess nan,712.0,13.0
+2020-08-22,MS Zaandam nan,9.0,2.0
+2020-08-23,Diamond Princess nan,712.0,13.0
+2020-08-23,MS Zaandam nan,9.0,2.0
+2020-08-24,Diamond Princess nan,712.0,13.0
+2020-08-24,MS Zaandam nan,9.0,2.0
+2020-08-25,Diamond Princess nan,712.0,13.0
+2020-08-25,MS Zaandam nan,9.0,2.0
+2020-08-26,Diamond Princess nan,712.0,13.0
+2020-08-26,MS Zaandam nan,9.0,2.0
+2020-08-27,Diamond Princess nan,712.0,13.0
+2020-08-27,MS Zaandam nan,9.0,2.0
+2020-08-28,Diamond Princess nan,712.0,13.0
+2020-08-28,MS Zaandam nan,9.0,2.0
+2020-08-29,Diamond Princess nan,712.0,13.0
+2020-08-29,MS Zaandam nan,9.0,2.0
+2020-08-30,Diamond Princess nan,712.0,13.0
+2020-08-30,MS Zaandam nan,9.0,2.0
+2020-08-31,Diamond Princess nan,712.0,13.0
+2020-08-31,MS Zaandam nan,9.0,2.0
+2020-09-01,Diamond Princess nan,712.0,13.0
+2020-09-01,MS Zaandam nan,9.0,2.0
+2020-09-02,Diamond Princess nan,712.0,13.0
+2020-09-02,MS Zaandam nan,9.0,2.0
+2020-09-03,Diamond Princess nan,712.0,13.0
+2020-09-03,MS Zaandam nan,9.0,2.0
+2020-09-04,Diamond Princess nan,712.0,13.0
+2020-09-04,MS Zaandam nan,9.0,2.0
+2020-09-05,Diamond Princess nan,712.0,13.0
+2020-09-05,MS Zaandam nan,9.0,2.0
+2020-09-06,Diamond Princess nan,712.0,13.0
+2020-09-06,MS Zaandam nan,9.0,2.0
+2020-09-07,Diamond Princess nan,712.0,13.0
+2020-09-07,MS Zaandam nan,9.0,2.0
+2020-09-08,Diamond Princess nan,712.0,13.0
+2020-09-08,MS Zaandam nan,9.0,2.0
+2020-09-09,Diamond Princess nan,712.0,13.0
+2020-09-09,MS Zaandam nan,9.0,2.0
+2020-09-10,Diamond Princess nan,712.0,13.0
+2020-09-10,MS Zaandam nan,9.0,2.0
+2020-09-11,Diamond Princess nan,712.0,13.0
+2020-09-11,MS Zaandam nan,9.0,2.0
+2020-09-12,Diamond Princess nan,712.0,13.0
+2020-09-12,MS Zaandam nan,9.0,2.0
+2020-09-13,Diamond Princess nan,712.0,13.0
+2020-09-13,MS Zaandam nan,9.0,2.0
+2020-09-14,Diamond Princess nan,712.0,13.0
+2020-09-14,MS Zaandam nan,9.0,2.0
+2020-09-15,Diamond Princess nan,712.0,13.0
+2020-09-15,MS Zaandam nan,9.0,2.0
+2020-09-16,Diamond Princess nan,712.0,13.0
+2020-09-16,MS Zaandam nan,9.0,2.0
+2020-09-17,Diamond Princess nan,712.0,13.0
+2020-09-17,MS Zaandam nan,9.0,2.0
+2020-09-18,Diamond Princess nan,712.0,13.0
+2020-09-18,MS Zaandam nan,9.0,2.0
+2020-09-19,Diamond Princess nan,712.0,13.0
+2020-09-19,MS Zaandam nan,9.0,2.0
+2020-09-20,Diamond Princess nan,712.0,13.0
+2020-09-20,MS Zaandam nan,9.0,2.0
+2020-09-21,Diamond Princess nan,712.0,13.0
+2020-09-21,MS Zaandam nan,9.0,2.0
+2020-09-22,Diamond Princess nan,712.0,13.0
+2020-09-22,MS Zaandam nan,9.0,2.0
+2020-09-23,Diamond Princess nan,712.0,13.0
+2020-09-23,MS Zaandam nan,9.0,2.0
+2020-09-24,Diamond Princess nan,712.0,13.0
+2020-09-24,MS Zaandam nan,9.0,2.0
+2020-09-25,Diamond Princess nan,712.0,13.0
+2020-09-25,MS Zaandam nan,9.0,2.0
+2020-09-26,Diamond Princess nan,712.0,13.0
+2020-09-26,MS Zaandam nan,9.0,2.0
+2020-09-27,Diamond Princess nan,712.0,13.0
+2020-09-27,MS Zaandam nan,9.0,2.0
+2020-09-28,Diamond Princess nan,712.0,13.0
+2020-09-28,MS Zaandam nan,9.0,2.0
+2020-09-29,Diamond Princess nan,712.0,13.0
+2020-09-29,MS Zaandam nan,9.0,2.0
+2020-09-30,Diamond Princess nan,712.0,13.0
+2020-09-30,MS Zaandam nan,9.0,2.0
+2020-10-01,Diamond Princess nan,712.0,13.0
+2020-10-01,MS Zaandam nan,9.0,2.0
+2020-10-02,Diamond Princess nan,712.0,13.0
+2020-10-02,MS Zaandam nan,9.0,2.0
+2020-10-03,Diamond Princess nan,712.0,13.0
+2020-10-03,MS Zaandam nan,9.0,2.0
