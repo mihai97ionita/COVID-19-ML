@@ -1,16 +1,9 @@
-from datetime import datetime
-
 import pandas
-
-
 import dateutil.parser
-from country_converter import country_converter
 
 
 def to_date(value: str):
     return dateutil.parser.parse(value).date()
-
-
 
 
 input = pandas.read_csv('input.csv')
