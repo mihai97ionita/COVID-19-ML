@@ -2,16 +2,11 @@
 
 ##Requirements 
 
-Anaconda 
+- Python 3.8
+- Pip 
 
 ##Commands:
 
-`conda env list`
-
-`conda env create -f environment.yml`
-
-`conda activate covid_ml`
-
-`conda env update -n covid_ml -f environment.yml --prune`
-
-`conda env export -n covid_ml > environment.yml`
+1. Select you virtual env (pycharm or shell)
+2. Run pip install `pip install -r req.txt`
+3. Start jupyter by running start-jupyter.sh

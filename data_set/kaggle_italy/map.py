@@ -16,4 +16,6 @@ our_columns['timestamp'] = our_columns['timestamp'].map(to_date)
 
 output = our_columns.groupby(['timestamp']).sum()
 output['country'] = 'ITA'
-output.to_csv('output_IT.csv')
+output.to_csv('dataset.csv')
+
+## TODO transform deaths from total to new per day!

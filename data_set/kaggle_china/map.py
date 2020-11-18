@@ -19,4 +19,4 @@ output = our_columns.groupby(['timestamp', 'country']).sum()
 
 print(output)
 
-output.to_csv('output_china.csv')
+output.to_csv('dataset.csv')
