@@ -15,7 +15,10 @@ our_columns = pandas.DataFrame(columns=['timestamp', 'cases', 'deaths'],
 our_columns['timestamp'] = our_columns['timestamp'].map(to_date)
 
 output = our_columns.groupby(['timestamp']).sum()
-output['country'] = 'ITA'
-output.to_csv('dataset.csv')
 
-## TODO transform deaths from total to new per day!
+output = output.sort_values(by='timestamp')
+initial_value = output.iloc[0]
+output['deaths'] = output['deaths'].diff()
+output['country'] = 'ITA'
+output.iloc[0] = initial_value
+output.to_csv('dataset.csv')

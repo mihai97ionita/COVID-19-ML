@@ -48,6 +48,7 @@ NON_STANDARD_position = pre_output['country'].str.startswith('NON_STANDARD_')
 
 filtered_pre_output = pre_output[~NON_STANDARD_position]
 output = filtered_pre_output.groupby(['timestamp', 'country']).sum()
+output = output.sort_values(by='timestamp')
 output.to_csv('dataset.csv')
 
 left_pre_output = pre_output[NON_STANDARD_position].copy()

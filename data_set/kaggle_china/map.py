@@ -1,6 +1,7 @@
 import pandas
 import dateutil.parser
 
+# formats date automatically, TODO may not be good
 
 def to_date(value: str):
     return dateutil.parser.parse(value).date()
@@ -18,5 +19,5 @@ our_columns['timestamp'] = our_columns['timestamp'].map(to_date)
 output = our_columns.groupby(['timestamp', 'country']).sum()
 
 print(output)
-
+output = output.sort_values(by='timestamp')
 output.to_csv('dataset.csv')

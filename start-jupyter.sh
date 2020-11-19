@@ -1,1 +1,2 @@
-source ./venv/bin/activate && jupyter notebook
+source ./venv/bin/activate
+jupyter notebook

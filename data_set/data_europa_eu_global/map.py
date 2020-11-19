@@ -21,5 +21,5 @@ our_columns['country'] = our_columns['country'].replace('CNG1925', 'TWN')
 output = our_columns.groupby(['timestamp', 'country']).sum()
 
 print(output)
-
+output = output.sort_values(by='timestamp')
 output.to_csv('dataset.csv')
