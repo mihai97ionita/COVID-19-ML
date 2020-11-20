@@ -49,6 +49,10 @@ NON_STANDARD_position = pre_output['country'].str.startswith('NON_STANDARD_')
 filtered_pre_output = pre_output[~NON_STANDARD_position]
 output = filtered_pre_output.groupby(['timestamp', 'country']).sum()
 output = output.sort_values(by='timestamp')
+initial_value = output.iloc[0]
+output['cases'] = output['cases'].groupby(['country']).diff()
+output['deaths'] = output['deaths'].groupby(['country']).diff()
+output.iloc[0] = initial_value
 output.to_csv('dataset.csv')
 
 left_pre_output = pre_output[NON_STANDARD_position].copy()

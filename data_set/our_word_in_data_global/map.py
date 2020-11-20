@@ -6,11 +6,6 @@ import pandas
 def to_date(value: str):
     return datetime.strptime(value, '%Y-%m-%d').date()
 
-def to_int(value):
-    try:
-        return int(value)
-    except:
-        return value
 
 input = pandas.read_csv('input.csv')
 
