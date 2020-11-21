@@ -1,3 +1,14 @@
 - invalid timestamp for ../../data_set/kaggle_china/dataset.csv ?? can we trust the auto timestamp conversion .. Can we detect anomalies here?
 - ../../data_set/kaggle_italy/dataset.csv has total deaths, we need to convert to death pe day
 - can anomaly detection detect that the dataset is badly formatted?
+- doua metode mari: death+ cases SI death+cases+time
+- death+cases merge foarte bine pe portiuni de detectie (7, 2 zile ) cu antrenari ( in general )
+- death+cases+time merge pe tot intervalul si e bun la gasit valuri
+- gasim valuri cu varianta 2, de excludem din varianta 1
+- discutie dataset uri folosite
+- discutie metoa de antreanre si detectie ( luna, saptamana etc )chunk
+- diferente rezultate mai multi alg de predict?
+- discutie de anomalie si concentratie => val
+- discutie detectie inceput de val ( concetratie la final pe perioada )
+
+- excludere val din detectarea de anomaly
