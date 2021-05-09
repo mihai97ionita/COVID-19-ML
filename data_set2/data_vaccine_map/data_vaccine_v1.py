@@ -7,7 +7,8 @@ from pandas import DataFrame
 input: DataFrame = pandas.read_csv('..///data_vaccine.csv')
 
 # only ALL TargetGroup
-filtered = input[input["TargetGroup"] == "ALL"]
+filtered_temp = input[input["TargetGroup"] == "ALL"]
+filtered = filtered_temp[filtered_temp["Region"] == filtered_temp["ReportingCountry"]]
 
 # todo do we want so sum all regions?.. if so remove 'Region' from below
 keys_columns = ['YearWeekISO', 'Region', 'ReportingCountry']
@@ -27,4 +28,4 @@ summed_all_vac_types["TotalDoses"] = summed_all_vac_types[["FirstDose", "SecondD
 # merge sum operations with values using keys_columns as keys to merge by
 output = pandas.merge(left=summed_all_vac_types, right=values, on=keys_columns)
 
-output.to_csv('dataset.csv')
+output.to_csv('dataset2.csv')
