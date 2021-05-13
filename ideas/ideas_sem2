@@ -2,15 +2,21 @@
 - nu a mers isolation tree pt ca ..... prea mic dataset
 - local neighbours (de explicat ce sunt + plot uri facute)
 
-TODO
-- plotam celelalte dataset uri
-- combinam dataset urile ramase
-- vedem ce scoatem din ele cu AD
+-- data_vaccine
+    sa ramana doar ALL
+    comninam toate tipurile de vaccine pe same date
+    FirstDose+SecondDose+UnknownDose = TotalDoses
 
 - procesam testing ( country=region, drop la tot mai putin date, country, posity rate )
 - procesam vaccine ( drop la tot mai putin date, country, total doze) + sum in timp per tara pe total doses (serie progresiva)
 - combinam testing.csv cu vaccine_map (key de combinare date si tara )
 - folosit pozitivty rate + doze totate pana in momentul ala (sum) + poate time as epoche?? ,= ploting
+
+TODO
+- plotam celelalte dataset uri
+- combinam dataset urile ramase
+- vedem ce scoatem din ele cu AD
+
 
 (optional) data_age_based are new cases per age group
     le putem combina si discuta in cteva pagini cu data_vacine care are tot age group
@@ -19,8 +25,5 @@ TODO
 
 (optional3) data_hospital in paralel cu new_cases - discutie
 
--- data_vaccine
-    sa ramana doar ALL
-    comninam toate tipurile de vaccine pe same date
-    FirstDose+SecondDose+UnknownDose = TotalDoses
+
 
