@@ -17,6 +17,11 @@
 
 TODO
 - plotam celelalte dataset uri
+    - data_testing -- done
+    - data_vaccine -- done
+    - data_hospital -- done
+    - data_age_based
+    - data_response_measures --> aici se va face un timeline pentru tare pe care si-o alege fiecare, nu merge plot
 - combinam dataset urile ramase
 - vedem ce scoatem din ele cu AD
 
