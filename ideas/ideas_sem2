@@ -11,12 +11,14 @@
 - procesam vaccine ( drop la tot mai putin date, country, total doze) + sum in timp per tara pe total doses (serie progresiva)
 - combinam testing.csv cu vaccine_map (key de combinare date si tara )
 - folosit pozitivty rate + doze totate pana in momentul ala (sum) + poate time as epoche?? ,= ploting
+- plotat data_hospital -- 4 grafice, ['Daily hospital occupancy' 'Daily ICU occupancy',
+                                      'Weekly new hospital admissions per 100k', 'Weekly new ICU admissions per 100k']
+                        -> unele tari (gen romania, bine inteles nu le au pe toate raportate)
 
 TODO
 - plotam celelalte dataset uri
 - combinam dataset urile ramase
 - vedem ce scoatem din ele cu AD
-
 
 (optional) data_age_based are new cases per age group
     le putem combina si discuta in cteva pagini cu data_vacine care are tot age group
