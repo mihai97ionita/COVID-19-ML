@@ -23,7 +23,9 @@ TODO
     - data_age_based
     - data_response_measures --> aici se va face un timeline pentru tare pe care si-o alege fiecare, nu merge plot
 - combinam dataset urile ramase
-- vedem ce scoatem din ele cu AD
+    - testing + vaccine -- done
+    -
+- se vor folosi ca suport
 
 (optional) data_age_based are new cases per age group
     le putem combina si discuta in cteva pagini cu data_vacine care are tot age group
