@@ -69,7 +69,7 @@ temp4 = filtered[filtered['TargetGroup'] == "Age80+"].copy()
 all = pandas.concat([temp1, temp2, temp3,temp4])
 print(all['TargetGroup'].unique())
 
-all['TargetGroup'] = all['TargetGroup'].map({'Age18_24': '15-24yr', 'Age25_49': '25-49yr', 'Age80+': '80+yr' })
+all['TargetGroup'] = all['TargetGroup'].map({'Age18_24': '15-24yr', 'Age25_49': '25-49yr', 'Age80+': '80+yr', '50-79yr': '50-79yr' })
 replace = lambda x: x.replace("W", "")
 all['YearWeekISO'] = all['YearWeekISO'].map(replace)
 

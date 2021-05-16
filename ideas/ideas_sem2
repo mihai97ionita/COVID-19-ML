@@ -15,16 +15,15 @@
                                       'Weekly new hospital admissions per 100k', 'Weekly new ICU admissions per 100k']
                         -> unele tari (gen romania, bine inteles nu le au pe toate raportate)
 
-TODO
+- plotat data_vaccine + data_age_based(new cases) -- 2 grafice x 4 age group uri ('15-24yr' '25-49yr' '50-79yr' '80+yr')
+
 - plotam celelalte dataset uri
     - data_testing -- done
     - data_vaccine -- done
     - data_hospital -- done
-    - data_age_based
+    - data_age_based -- done
     - data_response_measures --> aici se va face un timeline pentru tare pe care si-o alege fiecare, nu merge plot
-- combinam dataset urile ramase
-    - testing + vaccine -- done
-    -
+
 - se vor folosi ca suport
 
 (optional) data_age_based are new cases per age group
