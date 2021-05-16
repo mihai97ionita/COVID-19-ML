@@ -34,6 +34,52 @@ age_all = pandas.concat([not_age_50_79, age_50_79_summed])
 print(age_all['age_group'].unique())
 
 
-final = age_all
-final.set_index("year_week", inplace=True)
-final.to_csv(dataset_name)
+aged_based = age_all
+aged_based.set_index("year_week", inplace=True)
+aged_based.to_csv(dataset_name)
+
+#####################################################
+
+dataset_name = "vaccine.csv"
+
+input: DataFrame = pandas.read_csv('..///data_vaccine_map///dataset_vaccine_v2.csv')
+
+
+
+filtered = input[["YearWeekISO", "ReportingCountry", "TargetGroup", "TotalDosesSum" ]].copy()
+
+temp1 = filtered[filtered['TargetGroup'] == "Age18_24"].copy()
+temp2 = filtered[filtered['TargetGroup'] == "Age25_49"].copy()
+
+sum_tmp1 = filtered[filtered['TargetGroup'] == "Age50_59"].copy()
+sum_tmp2 = filtered[filtered['TargetGroup'] == "Age70_79"].copy()
+age_50_79 = pandas.concat([sum_tmp1, sum_tmp2])
+
+keys_columns = ['YearWeekISO', 'ReportingCountry']
+temp3 = age_50_79.groupby(keys_columns).sum()
+temp3["TargetGroup"] = "50-79yr"
+
+# hack :)
+temp3.to_csv(dataset_name)
+temp3: DataFrame = pandas.read_csv(dataset_name)
+
+temp4 = filtered[filtered['TargetGroup'] == "Age80+"].copy()
+
+
+all = pandas.concat([temp1, temp2, temp3,temp4])
+print(all['TargetGroup'].unique())
+
+all['TargetGroup'] = all['TargetGroup'].map({'Age18_24': '15-24yr', 'Age25_49': '25-49yr', 'Age80+': '80+yr' })
+replace = lambda x: x.replace("W", "")
+all['YearWeekISO'] = all['YearWeekISO'].map(replace)
+
+
+
+merged = pandas.merge(left=all, right=aged_based, left_on=['YearWeekISO','ReportingCountry', 'TargetGroup'], right_on=['year_week','country_code', 'age_group'])
+
+all.set_index('YearWeekISO', inplace=True)
+all.to_csv(dataset_name)
+
+merged.set_index('YearWeekISO', inplace=True)
+merged = merged.drop(columns=["country_code","age_group"])
+merged.to_csv("vaccine_ageBased_merged.csv")
